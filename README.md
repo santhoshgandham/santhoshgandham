@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=santhoshgandham&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshgandham" /> 
 </p>
 
-- 🔭 I’m currently working on [Hardware Security](https://www.notion.so/iisc-20bb45a6266180dbb6c9e350d7ff1026)  
-- 🌱 I’m currently learning **how to devise a Firmware Verification Tool**  
+- 🔭 I’m currently researching on [Hardware Security](https://www.notion.so/iisc-20bb45a6266180dbb6c9e350d7ff1026)  
+- 🌱 Learning **how to devise a Firmware Verification Tool**  
 - 💬 Ask me about **processors and code**  
-- 📫 How to reach me **gandhamsanthosh1234@gmail.com**  
+- 📫 How to reach me **santhoshgandham256@gmail.com**  
 - ⚡ Fun fact **People say you only live once… False. You live every day.**
 
 <h3 align="left">Connect with me:</h3>
