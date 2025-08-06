@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">Embedded Systems Enthusiast from India 🇮🇳</h3>
+<h3 align="center">I love Embedded Systems</h3>
 
 <!-- Embedded Systems GIF -->
 <p align="center">
