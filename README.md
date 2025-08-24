@@ -15,7 +15,7 @@
 # 💫 About Me:
 🎓 Final year B.Tech Electrical Engineering student @ IIT Madras  
 🔒 Currently researching on [Hardware Security](https://www.notion.so/iisc-20bb45a6266180dbb6c9e350d7ff1026)  
-🔧 Learning to devise a Firmware Verification Tool  
+🔧 Learning to write Firmware for many devices. 
 🧠 Ask me about processors and how code talks to hardware  
 📬 Reach me at **santhoshgandham256@gmail.com**  
 🎯 *Fun Fact:* People say you only live once, False. You live every day. 
