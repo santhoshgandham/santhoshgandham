@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/74313be7cf82d8353f79c37c75f39a4999a96d9451379663b5e60ce65200639d/68747470733a2f2f692e726564642e69742f316431317338323064676d39312e676966" width="400" alt="Embedded Systems GIF">
+  <img src="https://gist.githubusercontent.com/vibern0/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" width="400" alt="Embedded Systems GIF">
 </div>
 
 <p align="center">
