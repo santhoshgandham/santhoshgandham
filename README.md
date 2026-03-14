@@ -50,13 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshgandham&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshgandham&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshgandham&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
-</div>
+
 
 ---
